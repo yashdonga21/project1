@@ -4,16 +4,18 @@
             "category": "MENS",
             "Mensdata": [
                 {
-                    "id": 2,
+                    "id": 21,
+                    "Ctgry": "Men",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20231111/D0UY/654f92d6afa4cf41f583f5dc/-473Wx593H-410408483-b25-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20231111/D0UY/654f92d6afa4cf41f583f5f6/-78Wx98H-410408483-b25-MODEL.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20231111/VQke/654f9786ddf77915197fb989/-78Wx98H-410408483-b25-MODEL3.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20231111/Xqnu/654f907eddf77915197f901a/-78Wx98H-410408483-b25-MODEL4.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20231111/Xqnu/654f907eddf77915197f9032/-473Wx593H-410408483-b25-MODEL4.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20231111/EbCu/654f9bc4ddf77915197fd09f/-473Wx593H-410408483-b25-MODEL5.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20231111/VQke/654f9786ddf77915197fb9c8/-1117Wx1400H-410408483-b25-MODEL3.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20231111/EbCu/654f9bc4ddf77915197fd0b1/-1117Wx1400H-410408483-b25-MODEL5.jpg"
                     },
                     "titlemain": "SUPERDRY",
                     "title": "2 in 1 Wool Town Coat",
-                    "rating": "18 Ratings",
+                    "rating": "18",
                     "MRP": 24999,
                     "productdetails": {
                         "Bleach": "do not bleach; dry: tumble dry - normal (low heat); dry clean: do not dry clean iron: do not iron; wash: machine wash- cold (30°c)",
@@ -26,20 +28,25 @@
                         "other": "Other Information"
                     },
                     "cd": "Use Code  AJIOSPL T&C",
-                    " countryoforigion": "Cambodia",
+                    "countryoforigion": "Cambodia",
                     "offer": "Get Upto Extra 30% Off on Rs.3990 & Above, Max Discount Rs.2500",
-                    "discount": "",
+                    "discount": "Price inclusive of all taxes",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies, please click here",
-                    "buymore": "Shop More Jackets & Coats"
+                    "buymore": "Shop More Jackets & Coats",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": " Men's Jackets & Coats"
                 },
                 {
-                    "id": 3,
+                    "id": 22,
+                    "Ctgry": "Men",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20230908/MLOq/64fa4db6ddf7791519c4f703/-473Wx593H-466549613-blue-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230908/5SyN/64fa4db6ddf7791519c4f678/-78Wx98H-466549613-blue-MODEL5.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230908/FWG4/64fa4db6ddf7791519c4f679/-78Wx98H-466549613-blue-MODEL6.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230908/KmCx/64fa4db6ddf7791519c4f67a/-78Wx98H-466549613-blue-MODEL7.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230908/FWG4/64fa4db6ddf7791519c4f6c0/-1117Wx1400H-466549613-blue-MODEL6.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230908/KmCx/64fa4db6ddf7791519c4f6c6/-1117Wx1400H-466549613-blue-MODEL7.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230908/DNkF/64fa4db6ddf7791519c4f6b2/-1117Wx1400H-466549613-blue-MODEL8.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20230908/8HhS/64fa4db6ddf7791519c4f6c5/-1117Wx1400H-466549613-blue-MODEL2.jpg"
                     },
+                    "con": "Samarth Lifestyle Retailing Private Limited, 3Rd Floor, Above Icici Bank, Huda Market, Old Delhi Rd, Sector 14, Gurugram, Haryana 122016",
                     "titlemain": "TRUE RELIGION",
                     "title": "Lightly Washed Relaxed Fit Jeans",
                     "rating": "",
@@ -59,15 +66,19 @@
                     "offer": "Get Upto Extra 30% Off on Rs.3990 & Above, Max Discount Rs.2500",
                     "discount": "MRP₹26,999 (25% OFF)",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies, please click here",
-                    "buymore": "Shop More Jeans"
+                    "buymore": "Shop More Jeans",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": "Men's Jeans"
                 },
                 {
-                    "id": 4,
-                    "img": "https://assets.ajio.com/medias/sys_master/root/20231105/gYSf/65479b3eddf7791519701fe3/-473Wx593H-466776576-brown-MODEL.jpg",
+                    "id": 23,
+                    "Ctgry": "Men",
+                    "img": "https://assets.ajio.com/medias/sys_master/root/20231105/okru/65479b45ddf7791519702062/-1117Wx1400H-466776576-brown-MODEL4.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20231105/a7fy/65479b3eddf7791519701f61/-78Wx98H-466776576-brown-MODEL2.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20231105/okru/65479b45ddf779151970201f/-78Wx98H-466776576-brown-MODEL4.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20231105/oIVg/65479b45ddf779151970201c/-78Wx98H-466776576-brown-MODEL3.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20231105/a7fy/65479b3eddf7791519701f9a/-1117Wx1400H-466776576-brown-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20231105/oIVg/65479b45ddf779151970205c/-1117Wx1400H-466776576-brown-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20231105/okru/65479b45ddf7791519702062/-1117Wx1400H-466776576-brown-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20231105/okru/65479b45ddf7791519702062/-1117Wx1400H-466776576-brown-MODEL4.jpg"
                     },
                     "titlemain": "GANT",
                     "title": "Men Oversized Shirt with Flap Pockets",
@@ -83,20 +94,25 @@
                         "code": "Product Code: 123400050002",
                         "other": "Other Information"
                     },
+                    "con": "Samarth Lifestyle Retailing Private Limited, 3rd Floor, Above ICICI bank, Huda Market, Old Delhi Rd, Sector 14, Gurugram, Haryana 122016",
                     "cd": "Use Code  AJIOSPL T&C",
                     "countryoforigion": "Turkey",
                     "offer": "Get Upto Extra 30% Off on Rs.3990 & Above, Max Discount Rs.2500",
-                    "discount": "",
+                    "discount": "Price inclusive of all taxes",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies, please click here",
-                    "buymore": "Shop More Shirts"
+                    "buymore": "Shop More Shirts",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": "Men's Shirts"
                 },
                 {
-                    "id": 5,
+                    "id": 24,
+                    "Ctgry": "Men",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20230609/o8vt/6482e50cd55b7d0c635cb747/-473Wx593H-410384291-tan-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230609/0y14/6482e4f2d55b7d0c635cb529/-78Wx98H-410384291-tan-MODEL3.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230609/qrzV/6482e50e42f9e729d733ca9c/-78Wx98H-410384291-tan-MODEL5.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230609/wteU/6482e6d542f9e729d733d4e4/-78Wx98H-410384291-tan-MODEL2.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230609/wteU/6482e6d542f9e729d733d512/-1117Wx1400H-410384291-tan-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230609/0y14/6482e4f2d55b7d0c635cb567/-1117Wx1400H-410384291-tan-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230609/QVSR/6482e6d3d55b7d0c635cbf97/-1117Wx1400H-410384291-tan-MODEL6.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20230609/QVSR/6482e6d3d55b7d0c635cbf97/-1117Wx1400H-410384291-tan-MODEL6.jpg"
                     },
                     "titlemain": "STEVE MADDEN",
                     "title": "SM-1554 Flip-Flop Thongs",
@@ -112,20 +128,25 @@
                         "code": "Product Code: 123400220002",
                         "other": "Other Information"
                     },
+                    "con": "Samarth Lifestyle Retailing Private Limited, 3rd Floor, Above ICICI bank, Huda Market, Old Delhi Rd, Sector 14, Gurugram, Haryana 122016",
                     "cd": "Use Code  AJIOSPL T&C",
                     "countryoforigion": "China",
                     "offer": "Get Upto Extra 30% Off on Rs.3990 & Above, Max Discount Rs.2500",
-                    "discount": "",
+                    "discount": "Price inclusive of all taxes",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies, please click here",
-                    "buymore": "Shop More Flip Flop & Slippers"
+                    "buymore": "Shop More Flip Flop & Slippers",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": "Men's Flip Flop & Slippers"
                 },
                 {
-                    "id": 6,
+                    "id": 25,
+                    "Ctgry": "Men",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20230112/l9HE/63c01cd6f997dd708e021ed7/-473Wx593H-410368065-1722-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230112/l9HE/63c01cd6f997dd708e021ee3/-78Wx98H-410368065-1722-MODEL.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230112/RUlP/63c02b5bf997dd708e02fe63/-78Wx98H-410368065-1722-MODEL2.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230112/kx4F/63c03443aeb269c651dc25cf/-78Wx98H-410368065-1722-MODEL3.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230112/l9HE/63c01cd6f997dd708e021e64/-1117Wx1400H-410368065-1722-MODEL.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230112/RUlP/63c02b5bf997dd708e02fe94/-1117Wx1400H-410368065-1722-MODEL2.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230112/kx4F/63c03443aeb269c651dc260c/-1117Wx1400H-410368065-1722-MODEL3.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20230112/l9HE/63c01cd6f997dd708e021e64/-1117Wx1400H-410368065-1722-MODEL.jpg"
                     },
                     "titlemain": "EA7 EMPORIO ARMANI",
                     "title": "Training Blended Regular Fit Hoodie",
@@ -141,20 +162,25 @@
                         "code": "Product Code: 123400220023",
                         "other": "Other Information"
                     },
+                    "con": "Samarth Lifestyle Retailing Private Limited, 3rd Floor, Above ICICI bank, Huda Market, Old Delhi Rd, Sector 14, Gurugram, Haryana 122016",
                     "cd": "Use Code  AJIOSPL T&C",
                     "countryoforigion": "Cambodia",
                     "offer": "Get Upto Extra 30% Off on Rs.3990 & Above, Max Discount Rs.2500",
-                    "discount": "",
+                    "discount": "Price inclusive of all taxes",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies, please click here",
-                    "buymore": "Shop More Sweatshirt & Hoodies"
+                    "buymore": "Shop More Sweatshirt & Hoodies",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": "Men's Sweatshirt & Hoodies"
                 },
                 {
-                    "id": 8,
+                    "id": 26,
+                    "Ctgry": "Men",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20240215/hWum/65ce449f05ac7d77bb5cad34/-473Wx593H-410478789-0115-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20240215/aNaa/65ce460816fd2c6e6afe301f/-78Wx98H-410478789-0115-MODEL5.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20240215/g6XI/65ce26f505ac7d77bb5be4b3/-78Wx98H-410478789-0115-MODEL4.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20240215/FtiG/65ce438c05ac7d77bb5ca6d3/-78Wx98H-410478789-0115-MODEL2.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20240215/FtiG/65ce438c05ac7d77bb5ca715/-1117Wx1400H-410478789-0115-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20240215/VBKE/65ce4ee816fd2c6e6afe6130/-1117Wx1400H-410478789-0115-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20240215/g6XI/65ce26f505ac7d77bb5be4f5/-1117Wx1400H-410478789-0115-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20240215/aNaa/65ce460816fd2c6e6afe3027/-1117Wx1400H-410478789-0115-MODEL5.jpg"
                     },
                     "titlemain": "SCOTCH & SODA",
                     "title": "Linen Shirt",
@@ -170,20 +196,25 @@
                         "code": "Product Code: 123421220023",
                         "other": "Other Information"
                     },
+                    "con": "Samarth Lifestyle Retailing Private Limited, 3rd Floor, Above ICICI bank, Huda Market, Old Delhi Rd, Sector 14, Gurugram, Haryana 122016",
                     "cd": "Use Code  AJIOSPL T&C",
                     "countryoforigion": "China",
                     "offer": "Get Upto Extra 30% Off on Rs.3990 & Above, Max Discount Rs.2500",
-                    "discount": " no discount on this product",
+                    "discount": "Price inclusive of all taxes",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies, please click here",
-                    "buymore": "Shop More Shirts"
+                    "buymore": "Shop More Shirts",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": "Men's Shirts"
                 },
                 {
-                    "id": 9,
-                    "img": "https://assets.ajio.com/medias/sys_master/root/20231210/CcoR/6575cb84ddf7791519bede93/-473Wx593H-410110163-black-MODEL.jpg",
+                    "id": 27,
+                    "Ctgry": "Men",
+                    "img": "https://assets.ajio.com/medias/sys_master/root/20240117/bAS6/65a7e5878cdf1e0df5bc3c6d/-1117Wx1400H-410475522-1200-MODEL5.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20231103/fKvk/65450f48ddf77915196d449e/-78Wx98H-410394615-1200-MODEL2.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20231103/12fv/654508aaddf77915196d1f6b/-78Wx98H-410394615-1200-MODEL4.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20231103/8rGj/65450f4bafa4cf41f572aee7/-78Wx98H-410394615-1200-MODEL3.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20240117/bAS6/65a7e5878cdf1e0df5bc3c4b/-473Wx593H-410475522-1200-MODEL5.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20240117/XGLp/65a7e9b416fd2c6e6aad449f/-1117Wx1400H-410475522-1200-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20240117/5MGM/65a7f2868cdf1e0df5bc7e5b/-473Wx593H-410475522-1200-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20240117/mJ58/65a7f4f616fd2c6e6aad8317/-1117Wx1400H-410475522-1200-MODEL2.jpg"
                     },
                     "titlemain": "ARMANI EXCHANGE",
                     "title": "Slim Fit Crew-Neck T-shirt with Logo Print",
@@ -199,20 +230,25 @@
                         "code": "Product Code: 123421222323",
                         "other": "Other Information"
                     },
+                    "con": "Samarth Lifestyle Retailing Private Limited, 3rd Floor, Above ICICI bank, Huda Market, Old Delhi Rd, Sector 14, Gurugram, Haryana 122016",
                     "cd": "Use Code  AJIOSPL T&C",
                     "countryoforigion": "Cambodia",
                     "offer": "Get Upto Extra 40% Off on Rs.3999 & Above, Max Discount Rs.2000",
                     "discount": "MRP₹8,999 (40% OFF)",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies, please click here",
-                    "buymore": "Shop More Tshirts"
+                    "buymore": "Shop More Tshirts",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": "Men's Tshirts"
                 },
                 {
-                    "id": 10,
+                    "id": 28,
+                    "Ctgry": "Men",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20240314/7XvR/65f32baf05ac7d77bbb874a4/-473Wx593H-454015926-black-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20240314/gbgQ/65f3194816fd2c6e6a5c5e23/-78Wx98H-454015926-black-MODEL2.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20240314/lTb5/65f31c3f16fd2c6e6a5cc090/-78Wx98H-454015926-black-MODEL6.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20240314/azaH/65f31ce116fd2c6e6a5cd672/-78Wx98H-454015926-black-MODEL5.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20240314/gbgQ/65f3194816fd2c6e6a5c5e4f/-1117Wx1400H-454015926-black-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20240314/QNSe/65f329d005ac7d77bbb864ac/-1117Wx1400H-454015926-black-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20240314/azaH/65f31ce116fd2c6e6a5cd693/-1117Wx1400H-454015926-black-MODEL5.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20240314/7XvR/65f32baf05ac7d77bbb87414/-1117Wx1400H-454015926-black-MODEL.jpg"
                     },
                     "titlemain": "LOUIS PHILIPPE",
                     "title": "Men Leather Slip-On Loafers",
@@ -228,12 +264,15 @@
                         "code": "Product Code: 123421222324",
                         "other": "Other Information"
                     },
+                    "con": "Samarth Lifestyle Retailing Private Limited, 3rd Floor, Above ICICI bank, Huda Market, Old Delhi Rd, Sector 14, Gurugram, Haryana 122016",
                     "cd": "Use Code  AJIOSPL T&C",
                     "countryoforigion": "India",
                     "offer": "Get Flate Rs.500 off on 2490  and Above",
-                    "discount": "",
+                    "discount": "Price inclusive of all taxes",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies, please click here",
-                    "buymore": "Shop More Formal Shoes"
+                    "buymore": "Shop More Formal Shoes",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": "Men's Formal Shoes"
                 }
             ]
         },
@@ -241,58 +280,268 @@
             "category": "Shervani",
             "Shervanidata": [
                 {
-                    "id": 1,
-                    "titlemain": "MANYAVAR",
-                    "title": "Men Regular Fit Printed Long Kurta",
+                    "id": 81,
+                    "Ctgry": "Men",
+                    "img": "https://assets.ajio.com/medias/sys_master/root/20240311/3YaF/65eef2d716fd2c6e6a4d654b/-473Wx593H-467152048-black-MODEL.jpg",
+                    "images": {
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20240311/t5t0/65eef2d716fd2c6e6a4d64f8/-1117Wx1400H-467152048-black-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20240311/LKtl/65eef2d716fd2c6e6a4d64fc/-1117Wx1400H-467152048-black-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20240311/KJdZ/65eef2d716fd2c6e6a4d64fb/-1117Wx1400H-467152048-black-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20240311/vrVc/65eef2d716fd2c6e6a4d650a/-1117Wx1400H-467152048-black-MODEL6.jpg"
+                    },
+                    "titlemain": "KISAH",
+                    "title": "Men Chevron Woven Regular Fit Sherwani",
                     "rating": "2 Ratings",
-                    "image": "https://assets.ajio.com/medias/sys_master/root/20231219/9ghH/65819c7cddf7791519d98434/-473Wx593H-466899628-purple-MODEL.jpg",
-                    "price": 1999,
-                    "desc": ""
+                    "MRP": 9299,
+                    "productdetails": {
+                        "Bleach": "Dry clean",
+                        "weight": "*",
+                        "design": "*",
+                        "fitting": "Regular Fit",
+                        "packing": "Package contains: 1 sherwani",
+                        "quality": "Slik blend",
+                        "code": "Product Code: 467152048003",
+                        "other": "Other Information"
+                    },
+                    "cd": "Use Code SPL20",
+                    "countryoforigion": "India",
+                    "offer": "Get it for ₹7439 Get Upto Extra 20% Off On 3999 & Above. Max Discount Rs. 2000",
+                    "discount": "MRP₹13,300 (30% OFF)",
+                    "Returnpolicy": "Easy 10 days return, exchange unavailable. Returns Policies may vary based on products and promotions. For full details on our Returns Policies, please",
+                    "buymore": "Shop More Kurtas",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": "Men's Kurtas"
                 },
                 {
-                    "id": 2,
-                    "image": "https://assets.ajio.com/medias/sys_master/root/20240124/tLcr/65b0bc1e8cdf1e0df5cb6925/-473Wx593H-467000376-white-MODEL.jpg",
-                    "price": 500
+                    "id": 82,
+                    "Ctgry": "Men",
+                    "img": "https://assets.ajio.com/medias/sys_master/root/20240308/l18j/65eb15ec16fd2c6e6a471399/-1117Wx1400H-467147957-pink-MODEL.jpg",
+                    "images": {
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20240308/4Ufw/65eb15ec16fd2c6e6a4713d1/-1117Wx1400H-467147957-pink-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20240308/febS/65eb15ec16fd2c6e6a4713d7/-1117Wx1400H-467147957-pink-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20240308/3veh/65eb15ec16fd2c6e6a4713cd/-1117Wx1400H-467147957-pink-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20240308/l18j/65eb15ec16fd2c6e6a471399/-1117Wx1400H-467147957-pink-MODEL.jpg"
+                    },
+                    "titlemain": "KASBAH",
+                    "title": "Embellished Regular Fit Kurta with Mandarin Collar",
+                    "rating": "2 Ratings",
+                    "MRP": 11800,
+                    "productdetails": {
+                        "Bleach": "Dry clean",
+                        "weight": "*",
+                        "design": "*",
+                        "fitting": "Regular Fit",
+                        "packing": "Package contains: 1 kurta",
+                        "quality": "Georgette",
+                        "code": "Product Code: 467147957003",
+                        "other": "Other Information"
+                    },
+                    "cd": "Use Code   MARK",
+                    "countryoforigion": "India",
+                    "offer": "Get it for ₹10800   Extra Upto 26% Off on Rs.2589 and Above. Max Discount Rs.1000",
+                    "discount": "Price inclusive of all taxes",
+                    "Returnpolicy": "Easy 10 days return, exchange unavailable. Returns Policies may vary based on products and promotions. For full details on our Returns Policies",
+                    "buymore": "Shop More Kurtas",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": "Men's Kurtas"
                 },
                 {
-                    "id": 3,
-                    "image": "https://assets.ajio.com/medias/sys_master/root/20231104/veF3/65454c2cafa4cf41f573b0ca/-473Wx593H-466772534-navy-MODEL.jpg",
-                    "price": "500"
+                    "id": 83,
+                    "Ctgry": "Women",
+                    "img": "https://assets.ajio.com/medias/sys_master/root/20231106/P1B0/65491633ddf779151972b14b/-1117Wx1400H-466778608-yellow-MODEL.jpg",
+                    "images": {
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20231106/FvLz/65491633ddf779151972b195/-1117Wx1400H-466778608-yellow-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20231106/4YBf/65491633ddf779151972b18a/-1117Wx1400H-466778608-yellow-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20231106/9SYt/65491633ddf779151972b196/-1117Wx1400H-466778608-yellow-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20231106/EQhu/65491633ddf779151972b18f/-1117Wx1400H-466778608-yellow-MODEL5.jpg"
+                    },
+                    "titlemain": "TRINJANN",
+                    "title": "Women Floral Print Regular Fit Kurta with Round",
+                    "rating": "2 Ratings",
+                    "MRP": 9999,
+                    "productdetails": {
+                        "Bleach": "Machine wash",
+                        "weight": "*",
+                        "design": "Styling",
+                        "fitting": "Regular Fit",
+                        "packing": "Package contains: 1 kurta",
+                        "quality": "Pure Cotton",
+                        "code": "Product Code: 466778608002",
+                        "other": "Other Information"
+                    },
+                    "cd": "Use Code MARK",
+                    "countryoforigion": "India",
+                    "offer": "Get it for ₹8999  Extra Upto 26% Off on Rs.2589 and Above. Max Discount Rs.1000",
+                    "discount": "Price inclusive of all taxes",
+                    "Returnpolicy": "Easy 10 days return, exchange unavailable. Returns Policies may vary based on products and promotions. For full details on our Returns Policies, please",
+                    "buymore": "Shop More Kurtas",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": "Women's Kurtas"
                 },
                 {
-                    "id": 4,
-                    "image": "https://assets.ajio.com/medias/sys_master/root/20230410/Gh3V/6433d9bd907deb497ad62df9/-473Wx593H-466039576-multi-MODEL.jpg",
-                    "price": 500
+                    "id": 84,
+                    "Ctgry": "Men",
+                    "img": "https://assets.ajio.com/medias/sys_master/root/20230724/qd24/64bea5bca9b42d15c96b846f/-473Wx593H-466381042-maroon-MODEL.jpg",
+                    "images": {
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230724/atFz/64bea5bca9b42d15c96b83f8/-473Wx593H-466381042-maroon-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230724/twu6/64bea5bca9b42d15c96b83fe/-473Wx593H-466381042-maroon-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230724/63jK/64bea5bca9b42d15c96b83f1/-473Wx593H-466381042-maroon-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20230724/63jK/64bea5bca9b42d15c96b83f1/-473Wx593H-466381042-maroon-MODEL4.jpg"
+                    },
+                    "titlemain": "KASBAH",
+                    "title": "Slim Fit Nehru Jacket with Pockets",
+                    "rating": "2 Ratings",
+                    "MRP": 15480,
+                    "productdetails": {
+                        "Bleach": "Hand wash",
+                        "weight": "*",
+                        "design": "*",
+                        "fitting": "Regular Fit",
+                        "packing": "Package contains: 1 jacket",
+                        "quality": "Georgette",
+                        "code": "Product Code: 466381042003",
+                        "other": "Other Information"
+                    },
+                    "cd": "Use Code  MARK",
+                    "countryoforigion": "India",
+                    "offer": "Get it for ₹14480  Extra Upto 26% Off on Rs.2589 and Above. Max Discount Rs.1000",
+                    "discount": "MRP₹17,200 (10% OFF)",
+                    "Returnpolicy": "Easy 10 days return, exchange unavailable. Returns Policies may vary based on products and promotions. For full details on our Returns Policies, pleas",
+                    "buymore": "Shop More 3-Piece Ethnic Suit",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": "Men's 3-Piece Ethnic Suit"
                 },
                 {
-                    "id": 5,
-                    "image": "https://assets.ajio.com/medias/sys_master/root/20230316/bdVW/64132f6df997dde6f400ecf2/-473Wx593H-420451424-blue-MODEL.jpg",
-                    "price": 500
+                    "id": 85,
+                    "Ctgry": "Men",
+                    "img": "https://assets.ajio.com/medias/sys_master/root/20240220/7oUp/65d4a8be05ac7d77bb698691/-473Wx593H-467091139-grey-MODEL2.jpg",
+                    "images": {
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20240220/gIIW/65d4a8be05ac7d77bb69869a/-473Wx593H-467091139-grey-MODEL4.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20240220/X5lY/65d4a8be05ac7d77bb6986bf/-1117Wx1400H-467091139-grey-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20240220/7oUp/65d4a8be05ac7d77bb6986b8/-1117Wx1400H-467091139-grey-MODEL2.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20240220/gIIW/65d4a8be05ac7d77bb6986c7/-1117Wx1400H-467091139-grey-MODEL4.jpg"
+                    },
+                    "titlemain": "KASBAH",
+                    "title": "Mirror Embroidered Regular Fit Kurta",
+                    "rating": "2 Ratings",
+                    "MRP": 21400,
+                    "productdetails": {
+                        "Bleach": "Dry clean",
+                        "weight": "*",
+                        "design": "*",
+                        "fitting": "Regular Fit",
+                        "packing": "Package contains: 1 kurta",
+                        "quality": "Cotton",
+                        "code": "Product Code: : 467091139009",
+                        "other": "Other Information"
+                    },
+                    "cd": "Use Code MARK",
+                    "countryoforigion": "India",
+                    "offer": "Extra Upto 26% Off on Rs.2589 and Above. Max Discount Rs.1000",
+                    "discount": "Price inclusive of all taxes",
+                    "Returnpolicy": "Easy 10 days return, exchange unavailable. Returns Policies may vary based on products and promotions. For full details on our Returns Policies, please",
+                    "buymore": "Shop More Kurtas",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": "Men's Kurtas"
                 },
                 {
-                    "id": 6,
-                    "image": "https://assets.ajio.com/medias/sys_master/root/20230410/zTRi/6433d9b0907deb497ad62c3a/-473Wx593H-466039343-green-MODEL.jpg",
-                    "price": 500
+                    "id": 86,
+                    "Ctgry": "Men",
+                    "img": "https://assets.ajio.com/medias/sys_master/root/20231115/bSTW/6554fc56ddf779151981b4f7/-1117Wx1400H-466794222-cream-MODEL.jpg",
+                    "images": {
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20231115/TIPz/6554fc56ddf779151981b53a/-1117Wx1400H-466794222-cream-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20231115/wnTK/6554fc56ddf779151981b538/-1117Wx1400H-466794222-cream-MODEL4.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20231115/9Jp8/6554fc56ddf779151981b535/-1117Wx1400H-466794222-cream-MODEL3.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20231115/bSTW/6554fc56ddf779151981b4f7/-1117Wx1400H-466794222-cream-MODEL.jpg"
+                    },
+                    "titlemain": "KASBAH",
+                    "title": "Paisley Embroidered Regular Fit Kurta",
+                    "rating": "2 Ratings",
+                    "MRP": 20400,
+                    "productdetails": {
+                        "Bleach": "Dry clean",
+                        "weight": "*",
+                        "design": "*",
+                        "fitting": "Regular Fit",
+                        "packing": "Package contains: 1 kurta",
+                        "quality": "Georgette",
+                        "code": "Product Code: 123421222024",
+                        "other": "Other Information"
+                    },
+                    "cd": "Use Code MARK",
+                    "countryoforigion": "India",
+                    "offer": "Get it for ₹19400  Extra Upto 26% Off on Rs.2589 and Above. Max Discount Rs.1000",
+                    "discount": "Price inclusive of all taxes",
+                    "Returnpolicy": "Easy 10 days return, exchange unavailable. Returns Policies may vary based on products and promotions. For full details on our Returns Policies, please",
+                    "buymore": "Shop More Kurtas",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": "Men's Kurtas"
                 },
                 {
-                    "id": 7,
-                    "image": "https://assets.ajio.com/medias/sys_master/root/20231222/ON8t/6584957dddf7791519e1fc48/-473Wx593H-466905350-purple-MODEL.jpg",
-                    "price": 500
+                    "id": 87,
+                    "Ctgry": "Men",
+                    "img": "https://assets.ajio.com/medias/sys_master/root/20230308/2qyW/6408905aaeb26924e3af192c/-1117Wx1400H-465882366-white-MODEL.jpg",
+                    "images": {
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230308/52ev/6408905aaeb26924e3af1974/-1117Wx1400H-465882366-white-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230308/xqaQ/6408905aaeb26924e3af1971/-1117Wx1400H-465882366-white-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230308/cb7N/6408905aaeb26924e3af1972/-1117Wx1400H-465882366-white-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20230308/2qyW/6408905aaeb26924e3af192c/-1117Wx1400H-465882366-white-MODEL.jpg"
+                    },
+                    "titlemain": "RR BLUE",
+                    "title": "Striped Long Kurta with Mandarin Collar",
+                    "rating": "2 Ratings",
+                    "MRP": 14999,
+                    "productdetails": {
+                        "Bleach": "Dry clean",
+                        "weight": "*",
+                        "design": "*",
+                        "fitting": "Regular Fit",
+                        "packing": "Package contains: 1 kurta",
+                        "quality": "Raw silk",
+                        "code": "Product Code: 465882366002",
+                        "other": "Other Information"
+                    },
+                    "cd": "Use Code MARK",
+                    "countryoforigion": "India",
+                    "offer": "Get it for ₹13999  Extra Upto 26% Off on Rs.2589 and Above. Max Discount Rs.1000",
+                    "discount": "Price inclusive of all taxes",
+                    "Returnpolicy": "This product is not returnable. For full details on our Returns Policies, please ",
+                    "buymore": "Shop More Kurtas",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": "Men's Kurtas"
                 },
                 {
-                    "id": 8,
-                    "image": "https://assets.ajio.com/medias/sys_master/root/20220121/VSCN/61ea7bb6aeb2695cdd267550/-473Wx593H-463002622-white-MODEL.jpg",
-                    "price": 500
-                },
-                {
-                    "id": 9,
-                    "image": "https://assets.ajio.com/medias/sys_master/root/20240213/v0Z7/65cb99bf16fd2c6e6af5169b/-473Wx593H-467070752-yellow-MODEL.jpg",
-                    "price": 500
-                },
-                {
-                    "id": 10,
-                    "image": "https://assets.ajio.com/medias/sys_master/root/20230620/9b9X/6491842d42f9e729d7502f7b/-473Wx593H-466291636-multi-MODEL.jpg",
-                    "price": 500
+                    "id": 88,
+                    "Ctgry": "Men",
+                    "img": "https://assets.ajio.com/medias/sys_master/root/20231207/RwIM/6571a4ddddf7791519b7eb19/-1117Wx1400H-466860642-maroon-MODEL.jpg",
+                    "images": {
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20231207/yAGC/6571a4e1ddf7791519b7eb38/-1117Wx1400H-466860642-maroon-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20231207/Cf0w/6571a4e3ddf7791519b7eb43/-1117Wx1400H-466860642-maroon-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20231207/uSP9/6571a4e3ddf7791519b7eb42/-1117Wx1400H-466860642-maroon-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20231207/RwIM/6571a4ddddf7791519b7eb19/-1117Wx1400H-466860642-maroon-MODEL.jpg"
+                    },
+                    "titlemain": "KASBAH",
+                    "title": "Floral Embroidered Regular Fit Kurta",
+                    "rating": "2 Ratings",
+                    "MRP": 37400,
+                    "productdetails": {
+                        "Bleach": "Dry clean",
+                        "weight": "*",
+                        "design": "*",
+                        "fitting": "Regular Fit",
+                        "packing": "Package contains: 1 kurta",
+                        "quality": "Silk",
+                        "code": "Product Code: 466860642006",
+                        "other": "Other Information"
+                    },
+                    "cd": "Use Code MARK",
+                    "countryoforigion": "India",
+                    "offer": "Get it for ₹36400  Extra Upto 26% Off on Rs.2589 and Above. Max Discount Rs.1000.",
+                    "discount": "Price inclusive of all taxes",
+                    "Returnpolicy": "Easy 10 days return, exchange unavailable. Returns Policies may vary based on products and promotions. For full details on our Returns Policies, please",
+                    "buymore": "Shop More Kurtas",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": "Men's Kurtas"
                 }
             ]
         },
@@ -300,16 +549,18 @@
             "category": "Womens",
             "Womendata": [
                 {
-                    "id": 1,
+                    "id": 11,
+                    "Ctgry": "Women",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20230825/KUj6/64e7dbb7afa4cf41f5830932/-473Wx593H-461443874-yellow-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230825/N04Y/64e7dbb7afa4cf41f58308bc/-78Wx98H-461443874-yellow-MODEL2.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230825/im8q/64e7dbbeafa4cf41f583099d/-78Wx98H-461443874-yellow-MODEL4.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230825/KhCG/64e7dbbeafa4cf41f583099e/-78Wx98H-461443874-yellow-MODEL5.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230825/N04Y/64e7dbb7afa4cf41f58308e8/-1117Wx1400H-461443874-yellow-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230825/sgmV/64e7dbb7afa4cf41f58308e5/-1117Wx1400H-461443874-yellow-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230825/im8q/64e7dbbeafa4cf41f58309e6/-1117Wx1400H-461443874-yellow-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20230825/KUj6/64e7dbb7afa4cf41f5830932/-473Wx593H-461443874-yellow-MODEL.jpg"
                     },
                     "titlemain": "KAIRI INDIA",
                     "title": "Handloom Banarasi Pure Silk Valakalam Jangla Saree",
-                    "rating": "",
+                    "rating": "33",
                     "MRP": 52700,
                     "productdetails": {
                         "Bleach": "Dry clean",
@@ -322,23 +573,27 @@
                         "other": "Other Information"
                     },
                     "cd": "Use Code  AJIOSPL T&C",
-                    " countryoforigion": "India",
+                    "countryoforigion": "India",
                     "offer": "Get 10% Instant Discount of up to Rs. 1000 on a minimum transaction value of Rs 3999 using Yes Bank Credit Cards, Valid once per card per month.",
-                    "discount": "",
+                    "discount": "Price inclusive of all taxes",
                     "Returnpolicy": "Easy 7 days return, exchange unavailable. Returns Policies may vary based on products and promotions. For full details on our Returns Policies",
-                    "buymore": "Shop More Sarees"
+                    "buymore": "Shop More Sarees",
+                    "promise": "We assure the authenticity and quality of our products",
+                    "cmdty": "Women's Sarees"
                 },
                 {
-                    "id": 2,
+                    "id": 12,
+                    "Ctgry": "Women",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20240228/KPf7/65df5ec216fd2c6e6a2a0b2c/-473Wx593H-467120555-brown-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20240228/IMpd/65df5ec216fd2c6e6a2a0a9f/-78Wx98H-467120555-brown-MODEL2.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20240228/NnR5/65df5ec216fd2c6e6a2a0aa6/-78Wx98H-467120555-brown-MODEL7.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20240228/CEBW/65df5ec216fd2c6e6a2a0aa1/-78Wx98H-467120555-brown-MODEL4.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20240228/IMpd/65df5ec216fd2c6e6a2a0adc/-1117Wx1400H-467120555-brown-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20240228/5gi6/65df5ec216fd2c6e6a2a0ade/-1117Wx1400H-467120555-brown-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20240228/ycqS/65df5ec216fd2c6e6a2a0ae1/-1117Wx1400H-467120555-brown-MODEL6.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20240228/KPf7/65df5ec216fd2c6e6a2a0b2c/-473Wx593H-467120555-brown-MODEL.jpg"
                     },
                     "titlemain": "TJORI",
                     "title": "Women Embroidery V-Neck A-Line Kurta",
-                    "rating": "",
+                    "rating": "21",
                     "MRP": 10589,
                     "productdetails": {
                         "Bleach": "Machine wash",
@@ -351,23 +606,27 @@
                         "other": "Other Information"
                     },
                     "cd": "Use Code  AJIOSPL T&C",
-                    " countryoforigion": "INDIA",
+                    "countryoforigion": "INDIA",
                     "offer": "Get Flat Rs.500 Off on 2490 and Above",
-                    "discount": "",
+                    "discount": "Price inclusive of all taxes",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies",
-                    "buymore": "Shop More Kurtas"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Kurtas",
+                    "cmdty": "Women's Kurtas"
                 },
                 {
-                    "id": 3,
+                    "id": 13,
+                    "Ctgry": "Women",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20231004/PL7w/651d54dcafa4cf41f52475c6/-473Wx593H-469546035-black-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20231004/79VT/651d51feddf77915191bce04/-78Wx98H-469546035-black-MODEL2.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20231004/k5iB/651d52fcddf77915191bd507/-78Wx98H-469546035-black-MODEL3.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20231004/pAu1/651d4fa8ddf77915191bc017/-78Wx98H-469546035-black-MODEL4.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20231004/79VT/651d51feddf77915191bce37/-1117Wx1400H-469546035-black-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20231004/k5iB/651d52fcddf77915191bd54b/-1117Wx1400H-469546035-black-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20231004/pAu1/651d4fa8ddf77915191bc05a/-1117Wx1400H-469546035-black-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20231004/PL7w/651d54dcafa4cf41f52475c6/-473Wx593H-469546035-black-MODEL.jpg"
                     },
                     "titlemain": "ALL SAINTS",
                     "title": "Milly Wool Top",
-                    "rating": "",
+                    "rating": "56",
                     "MRP": 13299,
                     "productdetails": {
                         "Bleach": "Machine wash",
@@ -380,23 +639,27 @@
                         "other": "Other Information"
                     },
                     "cd": "Use Code  AJIOSPL T&C",
-                    " countryoforigion": "China",
+                    "countryoforigion": "China",
                     "offer": "Get Flat Rs.500 Off on 2490 and Above.",
                     "discount": "MRP₹18,999 (30% OFF)",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies",
-                    "buymore": "Shop More Tops"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Tops",
+                    "cmdty": "Women's Tops"
                 },
                 {
-                    "id": 4,
+                    "id": 14,
+                    "Ctgry": "Women",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20230504/69MN/6453abf242f9e729d7674596/-473Wx593H-466125882-yellow-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230504/2Wpt/6453abf242f9e729d767450b/-78Wx98H-466125882-yellow-MODEL5.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230504/nPOK/6453abf242f9e729d767450a/-78Wx98H-466125882-yellow-MODEL3.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230504/seh2/6453abf242f9e729d767450f/-78Wx98H-466125882-yellow-MODEL7.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230504/w00k/6453abf242f9e729d7674551/-1117Wx1400H-466125882-yellow-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230504/nPOK/6453abf242f9e729d7674546/-1117Wx1400H-466125882-yellow-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230504/c9Ax/6453abf242f9e729d7674547/-1117Wx1400H-466125882-yellow-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20230504/69MN/6453abf242f9e729d7674596/-473Wx593H-466125882-yellow-MODEL.jpg"
                     },
                     "titlemain": "GANT",
                     "title": "Floral Print Shirt with Cutaway Collar",
-                    "rating": "",
+                    "rating": "22",
                     "MRP": 11999,
                     "productdetails": {
                         "Bleach": "Machine wash",
@@ -409,23 +672,27 @@
                         "other": "Other Information"
                     },
                     "cd": "Use Code  AJIOSPL T&C",
-                    " countryoforigion": "CHINA",
+                    "countryoforigion": "CHINA",
                     "offer": "Get Upto Extra 30% Off On Rs.3990 & Above. Max Discount Rs. 2500.View All Products",
                     "discount": "Price inclusive of all taxes",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies,",
-                    "buymore": "Shop More Shirts"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Shirts",
+                    "cmdty": "Women's Shirts"
                 },
                 {
-                    "id": 5,
+                    "id": 15,
+                    "Ctgry": "Women",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20221202/gXMA/638a291af997ddfdbdb38e7a/-473Wx593H-410354506-586-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20221202/NveY/638a255af997ddfdbdb3754a/-78Wx98H-410354506-586-MODEL6.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20221202/8uMr/638a0fafaeb269659cca273a/-78Wx98H-410354506-586-MODEL3.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20221202/eOE0/638a3895aeb269659ccbcaac/-78Wx98H-410354506-586-MODEL5.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20221202/jMtJ/638a34baaeb269659ccba5e4/-1117Wx1400H-410354506-586-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20221202/8uMr/638a0fafaeb269659cca277c/-1117Wx1400H-410354506-586-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20221202/JNLJ/638a29ebf997ddfdbdb3915c/-1117Wx1400H-410354506-586-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20221202/gXMA/638a291af997ddfdbdb38e7a/-473Wx593H-410354506-586-MODEL.jpg"
                     },
                     "titlemain": "DUNE LONDON",
                     "title": "Tonia Mid-Calf Length Boots",
-                    "rating": "",
+                    "rating": "32",
                     "MRP": 15750,
                     "productdetails": {
                         "Bleach": "Store away from humidity and direct sunlight",
@@ -433,24 +700,28 @@
                         "design": "Zip closure, PU sole",
                         "fitting": "Regular Fit",
                         "packing": "Package contains: 1 pair of boots",
-                        "quality": "",
+                        "quality": "PU sole",
                         "code": "Product Code: 123421240007",
                         "other": "Other Information"
                     },
                     "cd": "Use Code  AJIOSPL T&C",
-                    " countryoforigion": "TUNISIA",
+                    "countryoforigion": "TUNISIA",
                     "offer": "Get Flat Rs.500 Off on 2490 and Above",
                     "discount": "MRP₹35,000 (55% OFF)",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies",
-                    "buymore": "Shop More Boots"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Boots",
+                    "cmdty": "Women's Boots"
                 },
                 {
-                    "id": 6,
+                    "id": 16,
+                    "Ctgry": "Women",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20231003/jLyz/651c3de5ddf7791519158e2c/-473Wx593H-410391130-42-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20231003/5snI/651c2a1eafa4cf41f51d93cf/-78Wx98H-410391130-42-MODEL5.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20231003/NfwS/651c39b4afa4cf41f51e28c7/-78Wx98H-410391130-42-MODEL3.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20231003/kckc/651c32abddf7791519151ac2/-78Wx98H-410391130-42-MODEL2.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20231003/kckc/651c32abddf7791519151adb/-1117Wx1400H-410391130-42-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20231003/NfwS/651c39b4afa4cf41f51e2902/-1117Wx1400H-410391130-42-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20231003/5snI/651c2a1eafa4cf41f51d940a/-1117Wx1400H-410391130-42-MODEL5.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20231003/jLyz/651c3de5ddf7791519158e2c/-473Wx593H-410391130-42-MODEL.jpg"
                     },
                     "titlemain": "BROOKS BROTHERS",
                     "title": "Stretch Wool Glenn Plaid Trousers",
@@ -458,7 +729,7 @@
                     "MRP": 15000,
                     "productdetails": {
                         "Bleach": "Dry clean, Mid Rise",
-                        "weight": "",
+                        "weight": "23",
                         "design": "Insert pocket",
                         "fitting": "Slim Fit",
                         "packing": "Package contains: 1 trousers",
@@ -471,19 +742,23 @@
                     "offer": "Get Flat Rs.500 Off on 2490 and Above",
                     "discount": "MRP₹30,000 (50% OFF)",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policie",
-                    "buymore": "Shop More Trousers & Pants"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Trousers & Pants",
+                    "cmdty": "Women's Trousers"
                 },
                 {
-                    "id": 7,
+                    "id": 17,
+                    "Ctgry": "Women",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20221215/ouHR/639a1fa8aeb269659ce9c193/-473Wx593H-410332763-brown-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20221215/XOBW/639a34c8f997ddfdbdd486ea/-78Wx98H-410332763-brown-MODEL6.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20221215/PxcW/639a2641f997ddfdbdd3fb16/-78Wx98H-410332763-brown-MODEL4.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20221215/tpkb/639a1a99aeb269659ce9a9cf/-78Wx98H-410332763-brown-MODEL2.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20221215/tpkb/639a1a99aeb269659ce9aa13/-1117Wx1400H-410332763-brown-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20221215/8WcT/639a1990aeb269659ce9a503/-1117Wx1400H-410332763-brown-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20221215/PxcW/639a2641f997ddfdbdd3fb58/-1117Wx1400H-410332763-brown-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20221215/ouHR/639a1fa8aeb269659ce9c193/-473Wx593H-410332763-brown-MODEL.jpg"
                     },
                     "titlemain": "RITU KUMAR",
                     "title": "Embroidered Long Fur Jacket",
-                    "rating": "",
+                    "rating": "44",
                     "MRP": 18550,
                     "productdetails": {
                         "Bleach": "Machine wash",
@@ -496,22 +771,27 @@
                         "other": "Other Information"
                     },
                     "cd": "Use Code  AJIOSPL T&C",
-                    " countryoforigion": "INDIA",
+                    "countryoforigion": "INDIA",
                     "offer": "Get Upto Extra 15% Off On Rs.4999 & Above. Max Discount Rs. 2000.View All Products",
                     "discount": "MRP₹26,500 (30% OFF)",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies",
-                    "buymore": "Shop More Jackets & Coats"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Jackets & Coats",
+                    "cmdty": "Women's Jackets"
                 },
                 {
-                    "id": 8,
+                    "id": 18,
+                    "Ctgry": "Women",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20210814/fYiG/6116bf50f997ddce899e696d/-473Wx593H-410292990-0134-MODEL3.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20210814/fYiG/6116bf50f997ddce899e6960/-78Wx98H-410292990-0134-MODEL3.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20210814/Jdfo/6116c8c2f997ddce899e876e/-78Wx98H-410292990-0134-MODEL2.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20210814/c5xh/6116bed5aeb269a268722d1d/-1117Wx1400H-410292990-0134-MODEL.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20210814/Jdfo/6116c8c2f997ddce899e8791/-1117Wx1400H-410292990-0134-MODEL2.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20210814/fYiG/6116bf50f997ddce899e6984/-1117Wx1400H-410292990-0134-MODEL3.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20210814/fYiG/6116bf50f997ddce899e696d/-473Wx593H-410292990-0134-MODEL3.jpg"
                     },
                     "titlemain": "SCOTCH & SODA",
                     "title": "Ams Blauw Washed Jumpsuit",
-                    "rating": "",
+                    "rating": "55",
                     "MRP": 12344,
                     "productdetails": {
                         "Bleach": "Hand wash",
@@ -524,23 +804,27 @@
                         "other": "Other Information"
                     },
                     "cd": "Use Code  AJIOSPL T&C",
-                    " countryoforigion": "China",
+                    "countryoforigion": "China",
                     "offer": "Get Upto Extra 20% Off On 3999 & Above. Max Discount Rs. 2000.",
                     "discount": "MRP₹18,990 (35% OFF)",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies,",
-                    "buymore": "Shop More Jumpsuits &Playsuits"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Jumpsuits &Playsuits",
+                    "cmdty": "Women's Jumpsuits"
                 },
                 {
-                    "id": 9,
+                    "id": 19,
+                    "Ctgry": "Women",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20231004/ouXb/651d507fddf77915191bc49d/-473Wx593H-469546023-green-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20231004/rIdw/651d4d54afa4cf41f5244bb2/-78Wx98H-469546023-green-MODEL3.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20231004/eKPu/651d4d4eddf77915191bb033/-78Wx98H-469546023-green-MODEL5.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20231004/mmm8/651d5203afa4cf41f524628c/-78Wx98H-469546023-green-MODEL2.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20231004/mmm8/651d5203afa4cf41f52462bf/-1117Wx1400H-469546023-green-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20231004/rIdw/651d4d54afa4cf41f5244bc2/-1117Wx1400H-469546023-green-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20231004/wO0X/651d5024ddf77915191bc30e/-1117Wx1400H-469546023-green-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20231004/ouXb/651d507fddf77915191bc49d/-473Wx593H-469546023-green-MODEL.jpg"
                     },
                     "titlemain": "ALL SAINTS",
                     "title": "Frieda Tencel Regular Fit Trousers",
-                    "rating": "",
+                    "rating": "67",
                     "MRP": 11899,
                     "productdetails": {
                         "Bleach": "Wash inside out",
@@ -553,23 +837,27 @@
                         "other": "Other Information"
                     },
                     "cd": "Use Code  AJIOSPL T&C",
-                    " countryoforigion": "TURKEY",
+                    "countryoforigion": "TURKEY",
                     "offer": "Get Flat Rs.500 Off on 2490 and Above.",
                     "discount": "MRP₹16,999 (30% OFF)",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies",
-                    "buymore": "Shop More Trousers & Pants"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Trousers & Pants",
+                    "cmdty": "Women's  Pants"
                 },
                 {
-                    "id": 10,
+                    "id": 20,
+                    "Ctgry": "Women",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20231120/NCRk/655b6478ddf77915198e3cfc/-473Wx593H-466811604-blue-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20231120/PIbK/655b6478ddf77915198e3c72/-78Wx98H-466811604-blue-MODEL3.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20231120/VehN/655b6478ddf77915198e3c75/-78Wx98H-466811604-blue-MODEL5.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20231120/zRu1/655b6478ddf77915198e3c74/-78Wx98H-466811604-blue-MODEL4.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20231120/1d04/655b6478ddf77915198e3caa/-1117Wx1400H-466811604-blue-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20231120/PIbK/655b6478ddf77915198e3ca8/-1117Wx1400H-466811604-blue-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20231120/zRu1/655b6478ddf77915198e3cac/-1117Wx1400H-466811604-blue-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20231120/NCRk/655b6478ddf77915198e3cfc/-473Wx593H-466811604-blue-MODEL.jpg"
                     },
                     "titlemain": "TRUE RELIGION",
                     "title": "women Mid-Rise Straight Fit Ankle-Length Jeans",
-                    "rating": "",
+                    "rating": "89",
                     "MRP": 14999,
                     "productdetails": {
                         "Bleach": "Machine wash",
@@ -582,11 +870,13 @@
                         "other": "Other Information"
                     },
                     "cd": "Use Code  AJIOSPL T&C",
-                    " countryoforigion": "China",
+                    "countryoforigion": "China",
                     "offer": "Get Extra 8% Off on 15000 & above",
                     "discount": "MRP₹19,999 (25% OFF)",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies",
-                    "buymore": "Shop More Jeans & Jeggings"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Jeans & Jeggings",
+                    "cmdty": "Women's Jeans"
                 }
             ]
         },
@@ -594,12 +884,14 @@
             "category": "KIDS",
             "Kidsdata": [
                 {
-                    "id": 1,
+                    "id": 41,
+                    "Ctgry": "KIDS",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20230908/ncAx/64faa0fdddf7791519c571ab/-473Wx593H-466548969-blue-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230908/gg1I/64faa0fdddf7791519c57123/-78Wx98H-466548969-blue-MODEL2.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230908/ds6r/64faa0fdddf7791519c57124/-78Wx98H-466548969-blue-MODEL3.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230908/qBdL/64faa0fdddf7791519c57126/-78Wx98H-466548969-blue-MODEL4.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230908/gg1I/64faa0fdddf7791519c57165/-1117Wx1400H-466548969-blue-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230908/ds6r/64faa0fdddf7791519c57167/-1117Wx1400H-466548969-blue-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230908/qBdL/64faa0fdddf7791519c5716d/-1117Wx1400H-466548969-blue-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20230908/ncAx/64faa0fdddf7791519c571ab/-473Wx593H-466548969-blue-MODEL.jpg"
                     },
                     "titlemain": "TRUE RELIGION",
                     "title": "Heavily Washed Distressed Slim Fit Jeans",
@@ -616,19 +908,23 @@
                         "other": "Other Information"
                     },
                     "cd": "",
-                    " countryoforigion": "India",
+                    "countryoforigion": "India",
                     "offer": "Get it for ₹5499  Get Flat Rs.500 Off on 2490 and Above",
                     "discount": "MRP₹7,999 (25% OFF)",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies, ",
-                    "buymore": "Shop More Jeans"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Jeans",
+                    "cmdty": "Boys's Jeans"
                 },
                 {
-                    "id": 2,
+                    "id": 42,
+                    "Ctgry": "KIDS",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20230301/2lnr/63ff679ef997dde6f4d4af30/-473Wx593H-469441451-white-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230301/cAvp/63ff8711f997dde6f4d56d01/-78Wx98H-469441451-white-MODEL2.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230301/jHDU/63ff8f7faeb26924e39cfe36/-78Wx98H-469441451-white-MODEL3.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230301/2lnr/63ff679ef997dde6f4d4af44/-78Wx98H-469441451-white-MODEL.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230301/2lnr/63ff679ef997dde6f4d4ae94/-1117Wx1400H-469441451-white-MODEL.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230301/cAvp/63ff8711f997dde6f4d56d26/-1117Wx1400H-469441451-white-MODEL2.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230301/jHDU/63ff8f7faeb26924e39cfe5c/-1117Wx1400H-469441451-white-MODEL3.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20230301/2lnr/63ff679ef997dde6f4d4af30/-473Wx593H-469441451-white-MODEL.jpg"
                     },
                     "titlemain": "TOMMY HILFIGER",
                     "title": "Striped Shirt with Patch Pocket",
@@ -645,19 +941,23 @@
                         "other": "Other Information"
                     },
                     "cd": "",
-                    " countryoforigion": "Bangladesh",
+                    "countryoforigion": "Bangladesh",
                     "offer": "Get it for ₹1713   Get Flat Rs.500 Off on 2490 and Above",
                     "discount": "MRP₹3,299 (35% OFF)",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies",
-                    "buymore": "Shop More Shirts"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Shirts",
+                    "cmdty": "Boys's Shirts"
                 },
                 {
-                    "id": 3,
+                    "id": 43,
+                    "Ctgry": "KIDS",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20230426/kVTF/64490364d55b7d0c63801f15/-473Wx593H-443012730-indigo-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230426/cXO6/6449010f42f9e729d7510c15/-78Wx98H-443012730-indigo-MODEL2.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230426/FkDc/644902d5d55b7d0c63801b53/-78Wx98H-443012730-indigo-MODEL3.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230426/eSUq/6448feaf42f9e729d750fcca/-78Wx98H-443012730-indigo-MODEL4.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230426/cXO6/6449010f42f9e729d7510c34/-1117Wx1400H-443012730-indigo-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230426/FkDc/644902d5d55b7d0c63801b7b/-1117Wx1400H-443012730-indigo-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230426/eSUq/6448feaf42f9e729d750fcd3/-1117Wx1400H-443012730-indigo-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20230426/kVTF/64490364d55b7d0c63801f15/-473Wx593H-443012730-indigo-MODEL.jpg"
                     },
                     "titlemain": "LEE COOPER",
                     "title": "Denim Shirt with Buttoned Pockets",
@@ -674,19 +974,23 @@
                         "other": "Other Information"
                     },
                     "cd": "Use code FREEDEL",
-                    " countryoforigion": "India",
+                    "countryoforigion": "India",
                     "offer": "Free Shipping on 799 and above. Just for you",
                     "discount": "MRP₹1,899 (70% OFF)",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies,",
-                    "buymore": "Shop More Shirts"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Shirts",
+                    "cmdty": "Boys's Shirts"
                 },
                 {
-                    "id": 4,
+                    "id": 44,
+                    "Ctgry": "KIDS",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20210604/j235/60ba4a2faeb269a9e3d58fd1/-473Wx593H-4916544210-multi-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20210604/o17r/60ba40d0f997ddb312b67190/-78Wx98H-4916544210-multi-MODEL2.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20210604/lg4R/60ba493caeb269a9e3d58be5/-78Wx98H-4916544210-multi-MODEL4.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20210604/tJzI/60ba41c0aeb269a9e3d5703e/-78Wx98H-4916544210-multi-MODEL5.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20210604/o17r/60ba40d1f997ddb312b671dd/-1117Wx1400H-4916544210-multi-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20210604/8p57/60ba4511f997ddb312b6863b/-1117Wx1400H-4916544210-multi-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20210604/lg4R/60ba493daeb269a9e3d58c0e/-1117Wx1400H-4916544210-multi-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20210604/j235/60ba4a2faeb269a9e3d58fd1/-473Wx593H-4916544210-multi-MODEL.jpg"
                     },
                     "titlemain": "MOTHERCARE",
                     "title": "Sleepysaurus 4-piece Bed In Bag Baby Bedding Sets",
@@ -703,19 +1007,23 @@
                         "other": "Other Information"
                     },
                     "cd": "",
-                    " countryoforigion": "China",
+                    "countryoforigion": "China",
                     "offer": "Get it for ₹7749 get Flat Rs.500 Off on 2490 and Above.",
                     "discount": "MRP₹10,999 (25% OFF)",
                     "Returnpolicy": "Easy 10 days return, exchange unavailable. Returns Policies may vary based on products and promotions. For full details on our Returns Policies,",
-                    "buymore": "Shop More Baby Bedding & Furniture"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Baby Bedding & Furniture",
+                    "cmdty": "Toys & Baby Care's Baby Bedding & Furniture"
                 },
                 {
-                    "id": 5,
+                    "id": 45,
+                    "Ctgry": "KIDS",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20220422/fyCp/6261ad82aeb26921af3a225f/-473Wx593H-410261824-bluerush-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20220422/fyCp/6261ad82aeb26921af3a2268/-78Wx98H-410261824-bluerush-MODEL.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20220422/OKTs/6261aac3aeb26921af3a1829/-78Wx98H-410261824-bluerush-MODEL2.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20220422/LxoN/6261a2b6aeb26921af39faf0/-78Wx98H-410261824-bluerush-MODEL3.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20220422/fyCp/6261ad82aeb26921af3a223b/-1117Wx1400H-410261824-bluerush-MODEL.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20220422/OKTs/6261aac3aeb26921af3a185c/-1117Wx1400H-410261824-bluerush-MODEL2.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20220422/LxoN/6261a2b6aeb26921af39fb1c/-1117Wx1400H-410261824-bluerush-MODEL3.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20220422/fyCp/6261ad82aeb26921af3a225f/-473Wx593H-410261824-bluerush-MODEL.jpg"
                     },
                     "titlemain": "ADIDAS KIDS",
                     "title": "Tensaur Run 2.0 Unisex Sports Shoes",
@@ -732,24 +1040,28 @@
                         "other": "Other Information"
                     },
                     "cd": "",
-                    " countryoforigion": "Myanmar",
+                    "countryoforigion": "Myanmar",
                     "offer": "Get it for ₹1869  Get Flat Rs.500 Off on 2490 and Above.",
                     "discount": "MRP₹3,599 (35% OFF)",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies",
-                    "buymore": "Shop More Sports&Outdoor Shoes"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Sports&Outdoor Shoes",
+                    "cmdty": "Boys's Shoes"
                 },
                 {
-                    "id": 6,
+                    "id": 46,
+                    "Ctgry": "KIDS",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20240401/xyUI/660a9f0c05ac7d77bbe83ed4/-473Wx593H-469552539-purple-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20240401/siQ0/660a9adc05ac7d77bbe82a35/-78Wx98H-469552539-purple-MODEL7.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20240401/RjjC/660aa4bd16fd2c6e6a8f44cd/-78Wx98H-469552539-purple-MODEL4.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20240401/FhZi/660a9adb16fd2c6e6a8f0ef9/-78Wx98H-469552539-purple-MODEL5.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20240401/ocxg/660a9ae216fd2c6e6a8f1003/-1117Wx1400H-469552539-purple-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20240401/xnVs/660aa23f05ac7d77bbe84fca/-1117Wx1400H-469552539-purple-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20240401/Pr0o/660aa35616fd2c6e6a8f3d91/-1117Wx1400H-469552539-purple-MODEL6.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20240401/xyUI/660a9f0c05ac7d77bbe83ed4/-473Wx593H-469552539-purple-MODEL.jpg"
                     },
                     "titlemain": "MARKS & SPENCER",
                     "title": "Girls Pack of 2 Pure Cotton Checked Pyjama Sets",
                     "rating": "",
-                    "MRP":2519,
+                    "MRP": 2519,
                     "productdetails": {
                         "Bleach": "Machine wash",
                         "weight": "",
@@ -761,24 +1073,28 @@
                         "other": "Other Information"
                     },
                     "cd": "Use Code SPL20",
-                    " countryoforigion": "TURKEY",
+                    "countryoforigion": "TURKEY",
                     "offer": "Get it for ₹2015 Get Upto Extra 20% Off On 3999 & Above. Max Discount Rs. 2000",
                     "discount": "MRP₹2,799 (10% OFF)",
                     "Returnpolicy": "Easy 10 days return and exchange. Return Policies may vary based on products and promotions. For full details on our Returns Policies",
-                    "buymore": "Shop More Nightsuit Sets"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Nightsuit Sets",
+                    "cmdty": "Kid's Nightsuit"
                 }
             ]
         },
         {
-            "category":"BEAUTY",
-            "Beautydata":[
+            "category": "BEAUTY",
+            "Beautydata": [
                 {
-                    "id": 1,
+                    "id": 51,
+                    "Ctgry": "BEAUTY",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20221102/mVg5/63628598aeb269659c6b91e4/-473Wx593H-4904998840-multi-MODEL.jpg",
                     "images": {
-                        "img1": "",
-                        "img2": "",
-                        "img3": ""
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20221102/mVg5/63628598aeb269659c6b91e4/-473Wx593H-4904998840-multi-MODEL.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20221102/mVg5/63628598aeb269659c6b91e4/-473Wx593H-4904998840-multi-MODEL.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20221102/mVg5/63628598aeb269659c6b91e4/-473Wx593H-4904998840-multi-MODEL.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20221102/mVg5/63628598aeb269659c6b91e4/-473Wx593H-4904998840-multi-MODEL.jpg"
                     },
                     "titlemain": "VERSACE",
                     "title": "Pour Homme Eau De Toilette | 100.0 ml",
@@ -799,16 +1115,19 @@
                     "offer": "Get it for ₹7530   Get Rs.750 off on min order value of Rs.2499 on selected beauty product",
                     "discount": "MRP₹9,000 (8% OFF)",
                     "Returnpolicy": "This product is not returnable. For full details on our Returns Policies, please",
-                    "buymore": "Shop More Perfumes & Colognes"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Perfumes & Colognes",
+                    "cmdty": "Men's Perfumes & Colognes"
                 },
-
                 {
-                    "id": 2,
+                    "id": 52,
+                    "Ctgry": "BEAUTY",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20230502/11YF/6450cb9642f9e729d75d0529/-473Wx593H-4937172400-multi-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230502/xLhR/6450cc6142f9e729d75d09c1/-78Wx98H-4937172400-multi-MODEL2.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230502/erNU/6450cbef42f9e729d75d05b4/-78Wx98H-4937172400-multi-MODEL3.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230502/Gws9/6450ca2642f9e729d75cfc1d/-78Wx98H-4937172400-multi-MODEL4.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230502/xLhR/6450cc6142f9e729d75d09c4/-1117Wx1400H-4937172400-multi-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230502/erNU/6450cbef42f9e729d75d05f9/-1117Wx1400H-4937172400-multi-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230502/Gws9/6450ca2642f9e729d75cfc52/-1117Wx1400H-4937172400-multi-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20230502/11YF/6450cb9642f9e729d75d0529/-473Wx593H-4937172400-multi-MODEL.jpg"
                     },
                     "titlemain": "FOREST ESSENTIALS",
                     "title": "Kashmiri Saffron & Neem Delicate Facial Cleanser",
@@ -824,21 +1143,24 @@
                         "code": "Product Code: 493717240",
                         "other": "Other Information"
                     },
-                    "cd": "",
+                    "cd": "Use Code FREEDEL",
                     "countryoforigion": "India",
                     "offer": "Get it for ₹843  Get Flat Rs 250 Off on cart value of 990 & Abov",
                     "discount": "MRP₹1,150 (5% OFF)",
                     "Returnpolicy": "This product is not returnable. For full details on our Returns Policies, pleas",
-                    "buymore": "Shop More Face Care"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Face Care",
+                    "cmdty": "Face Care"
                 },
-
                 {
-                    "id": 3,
+                    "id": 53,
+                    "Ctgry": "BEAUTY",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20221220/D8Co/63a19648aeb269659cf8db3f/-473Wx593H-4926557320-multicolor-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20221220/4FMz/63a1b1deaeb269659cf98f35/-78Wx98H-4926557320-multicolor-MODEL2.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20221220/psiD/63a1b445aeb269659cf99c07/-78Wx98H-4926557320-multicolor-MODEL5.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20221220/aaUk/63a18fb9f997ddfdbde3630d/-78Wx98H-4926557320-multicolor-MODEL4.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20221220/4FMz/63a1b1deaeb269659cf98f65/-1117Wx1400H-4926557320-multicolor-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20221220/Ck65/63a1ad49f997ddfdbde43d67/-1117Wx1400H-4926557320-multicolor-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20221220/G7uN/63a19cc6aeb269659cf8fb92/-1117Wx1400H-4926557320-multicolor-MODEL6.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20221220/D8Co/63a19648aeb269659cf8db3f/-473Wx593H-4926557320-multicolor-MODEL.jpg"
                     },
                     "titlemain": "18.21 MAN MADE",
                     "title": "Sweet Tobacco Hair Styling Wax | 56.7 gm",
@@ -859,17 +1181,19 @@
                     "offer": "Get it for ₹1680 Get Rs.750 off on min order value of Rs.2499 on selected beauty products",
                     "discount": "MRP₹3,000 (20% OFF)",
                     "Returnpolicy": "This product is not returnable. For full details on our Returns Policies, please",
-                    "buymore": "Shop More Hair Styling"
-
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Hair Styling",
+                    "cmdty": "Hair Styling"
                 },
-
                 {
-                    "id": 4,
+                    "id": 54,
+                    "Ctgry": "BEAUTY",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20230502/lnDK/6450caa7d55b7d0c638bac3a/-473Wx593H-4937172300-multi-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230502/4Lpm/6450cc6242f9e729d75d09c7/-78Wx98H-4937172300-multi-MODEL2.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230502/luuF/6450cd7342f9e729d75d114a/-78Wx98H-4937172300-multi-MODEL3.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230502/lnDK/6450caa7d55b7d0c638bac4a/-78Wx98H-4937172300-multi-MODEL.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230502/lnDK/6450caa7d55b7d0c638babec/-1117Wx1400H-4937172300-multi-MODEL.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230502/4Lpm/6450cc6242f9e729d75d09d6/-1117Wx1400H-4937172300-multi-MODEL2.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230502/luuF/6450cd7342f9e729d75d1190/-1117Wx1400H-4937172300-multi-MODEL3.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20230502/lnDK/6450caa7d55b7d0c638bac3a/-473Wx593H-4937172300-multi-MODEL.jpg"
                     },
                     "titlemain": "FOREST ESSENTIALS",
                     "title": "Soundarya Radiance Day Cream with 24K Gold & SPF",
@@ -885,22 +1209,24 @@
                         "code": "Product Code: 493717230",
                         "other": "Other Information"
                     },
-                    "cd": "",
+                    "cd": "Use Code FREEDEL",
                     "countryoforigion": "India",
                     "offer": "Get it for ₹1727  Get Flat Rs.500 Off on 2490 and Above.",
                     "discount": "MRP₹2,275 (5% OFF)",
                     "Returnpolicy": "This product is not returnable. For full details on our Returns Policies, please",
-                    "buymore": "Shop More Face Care"
-
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Face Care",
+                    "cmdty": "Face Care"
                 },
-
                 {
-                    "id": 5,
+                    "id": 55,
+                    "Ctgry": "BEAUTY",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20220407/8Ao7/624edd92aeb26921af108ff9/-473Wx593H-4919439740-multi-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20220407/iIHo/624ede0baeb26921af109265/-78Wx98H-4919439740-multi-MODEL5.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20220407/AP8X/624eda54aeb26921af107a16/-78Wx98H-4919439740-multi-MODEL3.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20220407/gD7C/624ee06faeb26921af10a267/-78Wx98H-4919439740-multi-MODEL2.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20220407/gD7C/624ee06faeb26921af10a26d/-1117Wx1400H-4919439740-multi-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20220407/AP8X/624eda54aeb26921af107a50/-1117Wx1400H-4919439740-multi-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20220407/iIHo/624ede0baeb26921af1092a2/-1117Wx1400H-4919439740-multi-MODEL5.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20220407/8Ao7/624edd92aeb26921af108ff9/-473Wx593H-4919439740-multi-MODEL.jpg"
                     },
                     "titlemain": "CADIVEU",
                     "title": "Acai Hair Oil",
@@ -921,16 +1247,19 @@
                     "offer": "Get it for ₹890   Get Rs.750 off on min order value of Rs.2499 on selected beauty produc",
                     "discount": "MRP₹1,590 (20% OFF)",
                     "Returnpolicy": "This product is not returnable. For full details on our Returns Policies, please",
-                    "buymore": "Shop More Oils & Spa"
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Oils & Spa",
+                    "cmdty": "Oil's and Spa"
                 },
-
                 {
-                    "id": 6,
+                    "id": 56,
+                    "Ctgry": "BEAUTY",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20210915/KU3K/614103867cdb8cb8242450fe/-473Wx593H-4919419690-pinklite-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20210915/0qCb/61410297aeb269a268939555/-78Wx98H-4919419690-pinklite-MODEL5.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20210915/96MJ/614108b1aeb269a26893a432/-78Wx98H-4919419690-pinklite-MODEL4.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20210915/XiXZ/61412190aeb269a26893d9e7/-78Wx98H-4919419690-pinklite-MODEL3.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20210915/XiXZ/61412190aeb269a26893d9f2/-1117Wx1400H-4919419690-pinklite-MODEL3.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20210915/96MJ/614108b1aeb269a26893a45e/-1117Wx1400H-4919419690-pinklite-MODEL4.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20210915/0qCb/61410297aeb269a268939574/-1117Wx1400H-4919419690-pinklite-MODEL5.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20210915/KU3K/614103867cdb8cb8242450fe/-473Wx593H-4919419690-pinklite-MODEL.jpg"
                     },
                     "titlemain": "M.A.C",
                     "title": "Strobe Cream Hydrant Lumineux - Pinklite | 50.0 ml",
@@ -949,19 +1278,21 @@
                     "cd": "Use Code FREEDEL",
                     "countryoforigion": "Toronto, Canada",
                     "offer": "Get it for ₹3949 Free Shipping on 799 and above. Just for you.",
-                    "discount": "",
+                    "discount": "Price inclusive of all taxes",
                     "Returnpolicy": "This product is not returnable. For full details on our Returns Policies, please",
-                    "buymore": "Shop More Face Care"
-
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Face Care",
+                    "cmdty": "Face Care"
                 },
-
                 {
-                    "id": 7,
+                    "id": 57,
+                    "Ctgry": "BEAUTY",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20230615/Rbue/648b2808d55b7d0c636da03e/-473Wx593H-4936528040-multi-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230615/dBWw/648b2bac42f9e729d7455a9f/-78Wx98H-4936528040-multi-MODEL3.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230615/0mfL/648b2f8b42f9e729d7457398/-78Wx98H-4936528040-multi-MODEL2.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230615/2Ou6/648b2e7e42f9e729d7456d02/-78Wx98H-4936528040-multi-MODEL4.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230615/0mfL/648b2f8b42f9e729d74573d7/-1117Wx1400H-4936528040-multi-MODEL2.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230615/dBWw/648b2bac42f9e729d7455aeb/-1117Wx1400H-4936528040-multi-MODEL3.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230615/2Ou6/648b2e7e42f9e729d7456d3b/-1117Wx1400H-4936528040-multi-MODEL4.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20230615/Rbue/648b2808d55b7d0c636da03e/-473Wx593H-4936528040-multi-MODEL.jpg"
                     },
                     "titlemain": "PAC",
                     "title": "Absolute Basics Brush Set",
@@ -982,17 +1313,19 @@
                     "offer": "Get it for ₹3564 Get Upto 20% off on Purchase of 1299 and above on Beauty Products Max Discount: INR 1000",
                     "discount": "MRP₹4,950 (10% OFF)",
                     "Returnpolicy": "This product is not returnable. For full details on our Returns Policies, please",
-                    "buymore": "Shop More Makeup Sets & Kits"
-
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Makeup Sets & Kits",
+                    "cmdty": "Makeup Sets and Kits"
                 },
-
                 {
-                    "id": 8,
+                    "id": 58,
+                    "Ctgry": "BEAUTY",
                     "img": "https://assets.ajio.com/medias/sys_master/root/20230801/YtAL/64c8f7fda9b42d15c980718f/-473Wx593H-4932876210-multicolor-MODEL.jpg",
                     "images": {
-                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230801/Gj5X/64c8f6ada9b42d15c9805444/-78Wx98H-4932876210-multicolor-MODEL4.jpg",
-                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230801/TVQ9/64c8eeb2a9b42d15c97f8fe5/-78Wx98H-4932876210-multicolor-MODEL3.jpg",
-                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230801/liiD/64c8f97aeebac147fc9b06e6/-78Wx98H-4932876210-multicolor-MODEL2.jpg"
+                        "img1": "https://assets.ajio.com/medias/sys_master/root/20230801/TVQ9/64c8eeb2a9b42d15c97f8fe8/-1117Wx1400H-4932876210-multicolor-MODEL3.jpg",
+                        "img2": "https://assets.ajio.com/medias/sys_master/root/20230801/Gj5X/64c8f6ada9b42d15c980547e/-1117Wx1400H-4932876210-multicolor-MODEL4.jpg",
+                        "img3": "https://assets.ajio.com/medias/sys_master/root/20230801/NeQB/64c8f70ba9b42d15c9806065/-1117Wx1400H-4932876210-multicolor-MODEL6.jpg",
+                        "img4": "https://assets.ajio.com/medias/sys_master/root/20230801/YtAL/64c8f7fda9b42d15c980718f/-473Wx593H-4932876210-multicolor-MODEL.jpg"
                     },
                     "titlemain": "L'OREAL PARIS",
                     "title": "Infallible 24H Fresh Wear Foundation - 235 Honey",
@@ -1011,10 +1344,11 @@
                     "cd": "Use Code FREEDEL",
                     "countryoforigion": "France",
                     "offer": "Get it for ₹1198  Free Shipping on 799 and above. Just for you.",
-                    "discount": "",
+                    "discount": "Price inclusive of all taxes",
                     "Returnpolicy": "This product is not returnable. For full details on our Returns Policies, please",
-                    "buymore": "Shop More Face & Body"
-
+                    "promise": "We assure the authenticity and quality of our products",
+                    "buymore": "Shop More Face & Body",
+                    "cmdty": "Face and Body"
                 }
             ]
         }

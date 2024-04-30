@@ -1,5 +1,6 @@
 import React from 'react';
 import './Cartpage.css';
+import { Link } from 'react-router-dom';
 
 export default function CartPage() {
   const [cartItems, setCartItems] = React.useState([]);
@@ -36,12 +37,12 @@ export default function CartPage() {
     <div className="cart-page container mt-5">
       <h1>Cart</h1>
       {cartItems.map(item => (
-        <div key={item.id} className="cart-item d-flex align-items-center justify-content-evenly">
+        <div key={item.id} className="cart-item d-flex align-items-center justify-content-between">
           <div className="img">
             <img src={item.img} alt="" />
           </div>
           <div className="item-details">
-            <h3>{item.title}</h3>
+            <h3 className=''>{item.title}</h3>
             <p>Price: ₹{item.MRP}</p>
           </div>
           <div className="item-controls">
@@ -55,7 +56,9 @@ export default function CartPage() {
       {cartItems.length > 0 && (
         <div className="total-section">
           <h2>Total price: ₹{getTotalPrice()}</h2>
-          <button className="checkout-button">Checkout</button>
+          <Link to={'/Pay'}>
+            <button className="checkout-button">Checkout</button>
+          </Link>
         </div>
       )}
     </div>

@@ -1,11 +1,12 @@
 import React from 'react'
+import './Footer.css'
 
 export default function Footer() {
     return (
-        <div>
+        <div className=''>
 
             <footer>
-                <div className='maindiv'>
+                <div className='maindiv col-12 col-lg-12 col-md-12  col-md-12'>
 
 
                     {/* first div */}
@@ -22,7 +23,7 @@ export default function Footer() {
 
                     {/* second div */}
 
-                    <div className='seconddiv d-flex text-center gap-5' style={{ justifyContent: 'center' }}>
+                    <div className='seconddiv d-flex text-center gap-5 col-12 col-lg-12 col-md-12  col-md-12' style={{ justifyContent: 'center' }}>
 
                         <div>
                             <div className="logo" style={{ fontSize: '2rem' }}>
@@ -62,32 +63,32 @@ export default function Footer() {
 
 
 
-                    <div className="list thirddiv">
+                    <div className="list thirddiv col-12 col-lg-12 col-md-12  col-md-12">
 
 
                         <div className='list1'>
                             <p>Ajio</p>
 
-                            <a target='_blank' rel='noreferrer' href='https://www.ajio.com/help/whoweare'>Who We Are</a>
-                            <a target='_blank' rel='noreferrer' href='https://www.ajio.com/ajio-careers'>Join Our Team</a>
-                            <a target='_blank' rel='noreferrer' href='https://www.ajio.com/help/termsAndCondition'>Terms & Conditions</a>
-                            <a target='_blank' rel='noreferrer' href='https://www.ajio.com/privacypolicy'>We Respect Your Privacy</a>
-                            <a target='_blank' rel='noreferrer' href='https://www.ajio.com/fee-payment-promotion-policy'>Fees & Payments</a>
-                            <a target='_blank' rel='noreferrer' href='https://www.ajio.com/return-refund-policy'>Returns & Refunds Policy</a>
-                            <a target='_blank' rel='noreferrer' href='https://www.ajio.com/ajio-own-sale-policy'>Promotions Terms & Conditions</a>
+                            <a target='_blank' rel='noreferrer' href='/'>Who We Are</a>
+                            <a target='_blank' rel='noreferrer' href='/'>Join Our Team</a>
+                            <a target='_blank' rel='noreferrer' href='/'>Terms & Conditions</a>
+                            <a target='_blank' rel='noreferrer' href='/'>We Respect Your Privacy</a>
+                            <a target='_blank' rel='noreferrer' href='/'>Fees & Payments</a>
+                            <a target='_blank' rel='noreferrer' href='/'>Returns & Refunds Policy</a>
+                            <a target='_blank' rel='noreferrer' href='/'>Promotions Terms & Conditions</a>
 
                         </div>
 
 
                         <div className='list2'>
                             <p>Help</p>
-                            <a target='_blank' rel='noreferrer' href="https://www.ajio.com/login?referrer=my-account/orders">Track Your Order</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.ajio.com/selfcare">Frequently Asked Questions</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.ajio.com/selfcare">Returns</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.ajio.com/selfcare">Cancellations</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.ajio.com/selfcare">Payments</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.ajio.com/selfcare">Customer Care</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.ajio.com/coupon-faq">How Do I Redeem My Coupon</a>
+                            <a target='_blank' rel='noreferrer' href="/">Track Your Order</a>
+                            <a target='_blank' rel='noreferrer' href="/">Frequently Asked Questions</a>
+                            <a target='_blank' rel='noreferrer' href="/">Returns</a>
+                            <a target='_blank' rel='noreferrer' href="/">Cancellations</a>
+                            <a target='_blank' rel='noreferrer' href="/">Payments</a>
+                            <a target='_blank' rel='noreferrer' href="/">Customer Care</a>
+                            <a target='_blank' rel='noreferrer' href="/">How Do I Redeem My Coupon</a>
                         </div>
 
 
@@ -95,25 +96,25 @@ export default function Footer() {
 
 
                             <p>Shop By</p>
-                            <a target='_blank' rel='noreferrer' href="https://www.ajio.com/shop/men">Men</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.ajio.com/shop/women">Women</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.ajio.com/shop/kids">Kids</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.ajio.com/shop/indie">Indie</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.ajio.com/shop/stores">Stores</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.ajio.com/shop/fresh-arrivals">New Arrivals</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.ajio.com/help/BrandListing">Brand Directory</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.ajio.com/shop/women?clear=true">Home</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.ajio.com/capsule/newin">Collections</a>
+                            <a target='_blank' rel='noreferrer' href="/Mencard">Men</a>
+                            <a target='_blank' rel='noreferrer' href="/Womencard">Women</a>
+                            <a target='_blank' rel='noreferrer' href="/Kidscard">Kids</a>
+                            <a target='_blank' rel='noreferrer' href="/">Indie</a>
+                            <a target='_blank' rel='noreferrer' href="/Cartpage">Stores</a>
+                            <a target='_blank' rel='noreferrer' href="/Newbrand">New Arrivals</a>
+                            <a target='_blank' rel='noreferrer' href="/Trend">Brand Directory</a>
+                            <a target='_blank' rel='noreferrer' href="/">Home</a>
+                            <a target='_blank' rel='noreferrer' href="/">Collections</a>
                         </div>
 
 
                         <div className='list4'>
                             <p>Follow Us</p>
-                            <a target='_blank' rel='noreferrer' href="https://www.facebook.com/AJIOlife">Facebook</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.instagram.com/AJIOlife/">Instagram- AJIOlife</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.instagram.com/ajioluxe/">Instagram- AJIO LUXE</a>
-                            <a target='_blank' rel='noreferrer' href="https://twitter.com/AJIOLife">Twitter</a>
-                            <a target='_blank' rel='noreferrer' href="https://www.pinterest.com/ajiolife/">Pinterest</a>
+                            <a target='_blank' rel='noreferrer' href="/">Facebook</a>
+                            <a target='_blank' rel='noreferrer' href="/">Instagram- AJIOlife</a>
+                            <a target='_blank' rel='noreferrer' href="/">Instagram- AJIO LUXE</a>
+                            <a target='_blank' rel='noreferrer' href="/">Twitter</a>
+                            <a target='_blank' rel='noreferrer' href="/">Pinterest</a>
 
                         </div>
 
@@ -124,7 +125,7 @@ export default function Footer() {
 
                     {/* fourthdiv */}
 
-                    <div className='fourthdiv'>
+                    <div className='fourthdiv col-12 col-lg-12 col-md-12  col-md-12'>
 
                         <div className="pymentmethod d-flex justify-content-between">
                             <p style={{ marginLeft: '40px' }}>Payment Methods</p>
