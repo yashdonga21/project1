@@ -50,10 +50,7 @@ export default function Header() {
                                     <span></span>
                                 )}
                             </a>
-
-
                         </div>
-
                         <form className="d-flex">
                             <input className="form-control me-2 rounded-pill" type="search" placeholder="Search AJIO" aria-label="Search" style={{ backgroundColor: '#fffded', border: '1px solid black' }} />
                             <button className="btn  rounded-pill" type="submit"
